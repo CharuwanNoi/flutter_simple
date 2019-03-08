@@ -1,8 +1,13 @@
 # hello_world
 
+In the project directory, you can run:
+
+### `flutter run`
+
 A new Flutter project.
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
